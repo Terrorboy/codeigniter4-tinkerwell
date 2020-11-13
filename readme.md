@@ -7,3 +7,4 @@
 
 ## 실행화면
 ![](https://github.com/Terrorboy/codeigniter4-tinkerwell/blob/master/run.png)
+![](https://github.com/Terrorboy/codeigniter4-tinkerwell/blob/master/db_find.png)
